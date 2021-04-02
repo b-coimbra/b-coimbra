@@ -1,4 +1,4 @@
-![https://www.codewars.com/users/in-dex](https://www.codewars.com/users/in-dex/badges/micro)
+[![Codewars Profile](https://www.codewars.com/users/in-dex/badges/micro)](https://www.codewars.com/users/in-dex)
 
 PGP [`0xE1082693`](https://github.com/b-coimbra.gpg)
 
