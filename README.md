@@ -1,9 +1,16 @@
-[![Codewars Profile](https://www.codewars.com/users/in-dex/badges/micro)](https://www.codewars.com/users/in-dex)
-
-PGP [`0xE1082693`](https://github.com/b-coimbra.gpg)
-
-<details>
-    <summary align="left">Stats</summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-coimbra&langs_count=20&layout=compact" align="left" width="365px" height="250" /> 
-    <img src="https://github-readme-stats.vercel.app/api?username=b-coimbra&show_icons=true" width="465px" height="250" />
-</details>
+```py
+>>> import me
+hello, nice to mee you!
+>>> me.name, me.bio
+({'Bruno Coimbra', 'b-coimbra'}, 'jr. software dev')
+>>> me.website, me.email
+('metaphoric.dev', 'me@metaphoric.dev')
+>>> me.keys
+{'pgp': '0xE1082693'}
+>>> me.learning
+['design patterns', 'systems architecture', 'cloud computing', 'docker']
+>>> me.interests
+['literature', 'post-punk', 'rhythm-games']
+>>> me.motto
+'<>< fishe'
+```
