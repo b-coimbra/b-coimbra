@@ -11,6 +11,4 @@ hello, nice to mee you!
 ['design patterns', 'systems architecture', 'cloud computing', 'docker']
 >>> me.interests
 ['literature', 'post-punk', 'rhythm-games']
->>> me.motto
-'<>< fishe'
 ```
