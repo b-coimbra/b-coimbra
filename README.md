@@ -5,10 +5,10 @@ hello, nice to mee you!
 ({'Bruno Coimbra', 'b-coimbra'}, 'jr. software dev')
 >>> me.website, me.email
 ('metaphoric.dev', 'me@metaphoric.dev')
->>> me.keys
+>>> me.fingerprint
 {'pgp': '0xE1082693'}
 >>> me.learning
 ['design patterns', 'systems architecture', 'cloud computing', 'docker']
 >>> me.interests
-['literature', 'post-punk', 'rhythm-games']
+['literature', 'rhythm-games', 'post-punk']
 ```
