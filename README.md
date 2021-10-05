@@ -1,13 +1,24 @@
-```py
->>> import me
->>> me.name, me.bio
-({'Bruno Coimbra', 'b-coimbra'}, 'jr. software dev')
->>> me.website, me.email
-('metaphoric.dev', 'me@metaphoric.dev')
->>> me.fingerprint
-{'pgp': '0xE1082693', 'eth': '0xFC55C2FF94f990d702e535B59E4284417257C9aB'}
->>> me.learning
-['design patterns', 'systems architecture', 'cloud computing', 'docker']
->>> me.interests
-['literature', 'rhythm-games', 'post-punk']
+```hs
+$ neofetch
+
+                   -`                     bruno@metaphoric.dev
+                  .o+`                    --------------------
+                 `ooo/                    Uptime: 21 years
+                `+oooo:                   Kernel: JR-SOFTWARE-DEV
+               `+oooooo:                  Shell: zsh
+               -+oooooo+:                 WM: i3
+             `/:-:++oooo+:
+            `/++++/+++++++:               user info
+           `/++++++++++++++:              ---------
+          `/+++ooooooooooooo/`            Email: mail@metaphoric.dev
+         ./ooosssso++osssssso+`           Website: metaphoric.dev
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.         fingerprint
+      :osssssss/        osssso+++.        -----------
+     /ossssssss/        +ssssooo/-        PGP: 0xE1082693
+   `/ossssso+/:-        -:/+osssso+-      ETH: 0xFC55C2FF94f990d702e535B59E4284417257C9aB
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/    ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇
+ .`                                 `
+
 ```
