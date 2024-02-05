@@ -3,10 +3,10 @@ $ neofetch
 
                    -`                     bruno@metaphoric.dev
                   .o+`                    --------------------
-                 `ooo/                    Uptime: 21 years
-                `+oooo:                   Kernel: JR-SOFTWARE-DEV
+                 `ooo/                    Uptime: 9 years
+                `+oooo:                   Kernel: SOFTWARE-DEV
                `+oooooo:                  Shell: zsh
-               -+oooooo+:                 WM: i3
+               -+oooooo+:                 WM: i3wm
              `/:-:++oooo+:
             `/++++/+++++++:               user info
            `/++++++++++++++:              ---------
